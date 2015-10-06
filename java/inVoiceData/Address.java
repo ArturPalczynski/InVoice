@@ -18,9 +18,7 @@ public class Address {
 	public String postalCode;
 	public String streetNumber;
 
-	public int getId(){
-		return Id; 
-	}
+
 	
 	public String getStreet() {
 		return street;
