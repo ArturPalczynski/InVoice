@@ -13,11 +13,8 @@
 			<property name="javax.persistence.jdbc.url"
 				value="jdbc:mysql://localhost:3306/newHibernateBase" />
 			<property name="hibernate.dialect" value="org.hibernate.dialect.MySQL5Dialect" />
-<<<<<<< HEAD
 			<property name="hibernate.hbm2ddl.auto" value="create"/>
-=======
-			
->>>>>>> 0714810ec4f36e760dccc96c4356fc46cf023ac9
+
 
 		</properties>
 
