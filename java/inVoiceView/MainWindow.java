@@ -3,7 +3,6 @@ package inVoiceView;
 import inVoiceData.Customer;
 import inVoiceData.HibernateConnection;
 
-<<<<<<< HEAD
 import java.awt.Font;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
@@ -18,39 +17,7 @@ import javax.swing.JTable;
 import javax.swing.JTextField;
 import javax.swing.LayoutStyle.ComponentPlacement;
 import javax.swing.table.DefaultTableModel;
-=======
-import java.awt.BorderLayout;
-import java.awt.EventQueue;
 
-import javax.swing.JFrame;
-import javax.swing.JPanel;
-import javax.swing.border.EmptyBorder;
-import javax.swing.BoxLayout;
-
-import net.miginfocom.swing.MigLayout;
-
-import com.jgoodies.forms.layout.FormLayout;
-import com.jgoodies.forms.layout.ColumnSpec;
-import com.jgoodies.forms.layout.RowSpec;
-import com.jgoodies.forms.layout.FormSpecs;
-
-import javax.swing.JTextField;
-import javax.swing.SpringLayout;
-import javax.swing.JLabel;
-import javax.swing.JTable;
-import javax.swing.table.DefaultTableModel;
-import javax.swing.JScrollPane;
-import javax.swing.border.BevelBorder;
-import javax.swing.UIManager;
-import javax.swing.GroupLayout;
-import javax.swing.GroupLayout.Alignment;
-import javax.swing.LayoutStyle.ComponentPlacement;
-import javax.swing.JButton;
-
-import java.awt.Font;
-import java.awt.event.ActionListener;
-import java.awt.event.ActionEvent;
->>>>>>> 0714810ec4f36e760dccc96c4356fc46cf023ac9
 
 public class MainWindow extends JFrame {
 	private JTextField textField_1;
