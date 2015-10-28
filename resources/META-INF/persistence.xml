@@ -21,3 +21,4 @@
 	</persistence-unit>
 
 </persistence>
+//<property name="hibernate.hbm2ddl.auto" value="create"/>
